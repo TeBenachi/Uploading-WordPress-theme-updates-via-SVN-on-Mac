@@ -80,14 +80,12 @@ Once you successfuly upload the new changes, you will receive a confirmation ema
 
 ## Getting help
 
-If you find any isseus, please creat a new issue. 
-
-If you have any questions, feel free to join [#themereview](href="https://wordpress.slack.com/messages/themereview) on Slack and ask away. 
+If you find any isseus or questions, please creat a new [issue](https://github.com/TeBenachi/Uploading-WordPress-theme-updates-via-SVN-on-Mac/issues). 
 
 
 ## Resources
 
-The theme review process is making steady progress towards the automation. You can check out the ongoing efforts and upcoming changes at the below links. 
+WordPress theme review process is making steady progress towards the automation. Check out the following links for the ongoing efforts and upcoming changes. 
 
 - Oct 14, 2021 - [Theme tools and requirements recap](https://make.wordpress.org/themes/2021/10/14/theme-tools-and-requirements-recap/)
 - Sept 13, 2021 - [Theme upload survey results & next steps](https://make.wordpress.org/themes/2021/09/13/theme-upload-survey-results-next-steps/)
