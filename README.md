@@ -11,7 +11,7 @@ Mac includes `.DS_Store` and `__MACOSX` when compressing files. They are hidden 
 - [VS code](https://code.visualstudio.com/Download)
 - [SVN module](https://marketplace.visualstudio.com/items?itemName=johnstoncode.svn-scm)
 
-`svn --version` to check whether you have svn installed.
+To check whether you have svn installed, type `svn --version` in terminal. 
 
 
 ## Instruction
