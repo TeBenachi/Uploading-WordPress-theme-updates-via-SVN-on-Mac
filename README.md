@@ -11,10 +11,13 @@ Mac includes `.DS_Store` and `__MACOSX` when compressing files. They are hidden 
 - [VS code](https://code.visualstudio.com/Download)
 - [SVN module](https://marketplace.visualstudio.com/items?itemName=johnstoncode.svn-scm)
 
+`svn --version` to check whether you have svn installed.
 
 
 ## Instruction
 (1) Create a copy of the repository on your local machine. Replace `/NameOfYourTheme/` with your theme name. 
+
+You can check the list of all themes on WordPress.org. https://themes.svn.wordpress.org/
 
  ```
  
