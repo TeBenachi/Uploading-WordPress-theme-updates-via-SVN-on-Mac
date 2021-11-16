@@ -77,7 +77,7 @@ Svn commit -m “Fix typo on readme.txt”
 Note: once you commit, absolutely no way to change or modify what you just commit. If you find any mistakes including a small typo, the only way to fix is to start over from step 2, create a new directory, and upload again. 
 
 ## What to expect next
-Once you successfully upload the new changes, you will receive a confirmation email from WordPress.org. It may take some time to reflect on the WordPress.org directory. 
+Once you successfully upload the new update, you will receive a confirmation email from WordPress.org. It may take some time to reflect on the WordPress.org directory. 
 
 
 ## Getting help
