@@ -1,7 +1,7 @@
 # Uploading WordPress theme updates via SVN on Mac
 
 ## About
-Themes authors can now update themes using SVN. This tutorial provides the steps to update WordPress themes using SVN on Mac. 
+Themes authors can now update themes using SVN. This tutorial shows the steps to update WordPress themes using SVN on Mac. 
 
 ## Background
 Mac includes `.DS_Store` and `__MACOSX` when compressing files. They are hidden files and often trigger an error if they are not removed prior to upload. SVN allows Mac users to remove hidden files and streamline automation. 
