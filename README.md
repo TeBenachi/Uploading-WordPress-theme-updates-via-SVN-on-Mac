@@ -17,7 +17,7 @@ To check whether you have svn installed, type `svn --version` in terminal.
 ## Instruction
 (1) Create a copy of the repository on your local machine. Replace `/NameOfYourTheme/` with your theme name. 
 
-You can check the list of all themes on WordPress.org. https://themes.svn.wordpress.org/
+You can search and find the exact name of your theme (e.g. hyphen, undersocre) at this link. https://themes.svn.wordpress.org/
 
  ```
  
@@ -35,9 +35,9 @@ cp -R /Users/Desktop/NameOfYourTheme/1.0.1 /Users/Desktop/NameOfYourTheme/1.0.2
 
 ```
 
-Note: Updates MUST be stored in a directory with the version number as the name.  For example, if your current theme is `1.2.3`, the new directory MUST be `1.2.4`.   e.g. `/NameofYourTheme/1.3`
+Note: Updates MUST be stored in a directory with the version number as the directory name. For example, if your current theme is `1.2.3`, the new directory MUST be `1.2.4`.   e.g. `/NameofYourTheme/1.2.4`
 
-Note: To get the full path to the current version of your theme using VS code on Mac, you can simply drag the folder of the folder into the terminal area to get the path. 
+Note: To get the full path to the current version of your theme using VS code on Mac, you can simply drag the folder into the terminal area to get the full path. 
 
 (3) Add the new directory to a local working group. Replace `1.0.2` with the new directory you just created. 
 
