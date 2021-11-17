@@ -31,7 +31,7 @@ In the example below, we are creating a new directory `1.0.2`, and copying all f
 
 ```
 
-cp -R /Users/Desktop/NameOfYourTheme/1.0.1 /Users/Desktop/NameOfYourTheme/1.0.2
+svn cp 1.0.1 1.0.2
 
 ```
 
