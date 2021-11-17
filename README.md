@@ -26,7 +26,7 @@ You can search and find the exact name of your theme (e.g. hyphen, undersocre) a
  ```
  
 
-(2) The next step is to create a new directory and copy all theme files from the current version of the theme. 
+(2) The next step is to create a new directory and copy all theme files, including the history from the current version of the theme. 
 In the example below, we are creating a new directory `1.0.2`, and copying all files from the version `1.0.1`.
 
 ```
@@ -95,6 +95,7 @@ WordPress theme review process is making steady progress towards automation. Che
 - Feb 24, 2021 - [Meeting Notes | Matt Josepha and Theme Team](https://make.wordpress.org/themes/2021/02/24/meeting-notes-matt-josepha-and-theme-review-team/)
 
 
+Thank you @dd32 for reviewing!
 
 
 
