@@ -95,7 +95,7 @@ WordPress theme review process is making steady progress towards automation. Che
 - Feb 24, 2021 - [Meeting Notes | Matt Josepha and Theme Team](https://make.wordpress.org/themes/2021/02/24/meeting-notes-matt-josepha-and-theme-review-team/)
 
 
-Thank you @dd32 for reviewing!
+Thank you [@dd32](https://github.com/dd32) for reviewing!
 
 
 
